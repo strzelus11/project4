@@ -1,0 +1,27 @@
+.body {
+	padding: 20px;
+}
+
+.card {
+	margin-bottom: 30px;
+}
+
+.user-link {
+	color: gray;
+}
+
+.user-link:hover {
+	color: black;
+	text-decoration: none;
+}
+
+.like {
+	margin-right: 0.5em;
+	background: none;
+    border: white;
+    border-radius: 0.5em;
+}
+
+.red {
+	color: red;
+}
